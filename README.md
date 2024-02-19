@@ -1,3 +1,5 @@
+Email me at waleycz@gmail.com if there are any issues setting up or running the app, thanks!
+
 ## Prerequisites
 
 1. Install [Go](https://go.dev/doc/install).
